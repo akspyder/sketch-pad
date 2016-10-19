@@ -16,4 +16,5 @@
 	padding-bottom: 5.75%;
 	background-color: gray;
 	border: 1px solid black;
+	vertical-align: top; /*to remove the space between lines*/
 }
