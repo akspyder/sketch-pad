@@ -4,5 +4,13 @@ $(document).ready(function() {
 		$newdiv = $('<div class="grid"></div>');
 		$('#wrapper').append($newdiv);
 	};
+
+	$('.grid').mouseenter(function() {
+		$(this).addClass('mouseenter');
+	});
+
+	$('.grid').mouseleave(function() {
+		$(this).addClass('mouseleave');
+	});
 	
 });

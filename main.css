@@ -18,3 +18,11 @@
 	border: 1px solid black;
 	vertical-align: top; /*to remove the space between lines*/
 }
+
+.mouseenter {
+	background-color: white;
+}
+
+.mouseleave {
+	background-color: black;
+}
