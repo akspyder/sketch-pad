@@ -1,0 +1,19 @@
+/*div {
+	border: 1px dash black;
+}*/
+
+#wrapper {
+	margin: auto;
+	width: 60%;
+	text-align: center;
+	border: 1px dashed black;
+	/*padding-bottom: 60%;*/
+}
+
+.grid {
+	display: inline-block;
+	width: 5.75%;
+	padding-bottom: 5.75%;
+	background-color: gray;
+	border: 1px solid black;
+}
