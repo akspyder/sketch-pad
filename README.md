@@ -1,1 +1,1 @@
-Sef-Reflection:
+Sef-Reflection: Learned so much about jquery in this project. Sometimes, it took a while to find a solution, but once I found the solution, it felt really good. Awesome project.

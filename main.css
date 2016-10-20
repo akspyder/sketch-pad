@@ -1,13 +1,9 @@
-/*div {
-	border: 1px dash black;
-}*/
-
 #wrapper {
 	margin: auto;
 	width: 60%;
 	text-align: center;
-	border: 1px dashed black;
-	/*padding-bottom: 60%;*/
+	/*border: 1px dashed black;*/
+	
 }
 
 .grid {
@@ -36,8 +32,4 @@
 	width: 1.9%;
 	padding-bottom: 1.9%;
 	vertical-align: top;
-}
-
-.remove {
-
 }

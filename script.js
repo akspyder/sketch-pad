@@ -37,9 +37,10 @@ $(document).ready(function() {
 	
 
 	$('button').click(function() {
-		
-		var count = prompt("How many on each side? Enter 16, 32, or 48.");
 
+		var count = prompt("How many squares on each side? Enter 16, 32, or 48.");
+
+	
 		if (count === '16') {
 			location.reload(); //reload page if input is 16
 		}
@@ -58,8 +59,8 @@ $(document).ready(function() {
 			mouseLeave();
 		}
 		else {
-			var count = prompt("Wrong input. Enter 16, 32, or 48.");
-		};		
+			var count = alert("Wrong input. Enter 16, 32, or 48.");							
+		};
 		
 	});
 	
